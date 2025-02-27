@@ -4,5 +4,5 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taktasahinaa&theme=radical&margin-w=10&rank=C,B,A,AA,AAA,S,SS,SSS,?&row=1&column=3" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=taktasahinaa&theme=radical&margin-w=10&rank=C,B,A,AA,AAA,S,SS,SSS,?&row=1&column=3" alt="Trophies"  />
 </p>
